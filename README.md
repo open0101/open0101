@@ -8,7 +8,7 @@
   2. GitHub
 - <h2>⚡爬蟲資料來源</h2>
   資料來源 : <a href="[https://rdger.kktix.cc/events/okdwer" rel="nofollow](https://www.gomaji.com/blog/%E9%B4%A8%E8%82%89%E9%A3%AF/)">
-    <a href="https://www.gomaji.com/blog/%E9%B4%A8%E8%82%89%E9%A3%AF/ rel="nofollow">鴨肉飯</a><br>
+    <a href="https://www.gomaji.com/blog/%E9%B4%A8%E8%82%89%E9%A3%AF/ ">鴨肉飯</a><br>
   <img src="https://www.gomaji.com/blog/wp-content/uploads/2021/02/133858574_208904770772999_2855415711633143925_n-e1612236380185.jpg"
 - <h2>📫作者與聯絡方式</h2>
   作者 : 靜宜大學 / 資科系 / 李映璇<br>
