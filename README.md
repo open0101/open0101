@@ -2,7 +2,7 @@
 - <h2>👀功能說明</h2>
   1.<a href="https://open0101.github.io/" rel="nofollow">首頁</a><br>
   2.<a href="https://open0101.github.io/" rel="nofollow">個人介紹</a><br>
-  3.<a href="https://open0101.github.io/#work" rel="nofollow">爬蟲成果展示頁</a>
+  3.<a href="https://github.com/open0101/open0101/edit/main/README.md" rel="nofollow">爬蟲成果展示頁</a>
 - <h2>🌱使用工具與套件</h2>
   1. Spyder<br>
   2. GitHub
